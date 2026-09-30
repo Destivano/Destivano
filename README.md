@@ -7,6 +7,7 @@
 <p>
   <a href="https://destivano.github.io"><img src="https://img.shields.io/badge/portfolio-destivano.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mohamed-amine-arous-ensta/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/scholar?q=Mohamed+Amine+Arous"><img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:mohamed-amine.arous@ensta-paris.fr"><img src="https://img.shields.io/badge/email-say_hi-ff744b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
