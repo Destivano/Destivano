@@ -1,42 +1,97 @@
 <div align="center">
 
-# hey, I'm Mohamed Amine 👋
+# Hi, I’m Mohamed Amine Arous 👋
 
-**Final-year AI Engineering student @ ENSTA Paris**, into Generative AI, RAG, and turning research into things that actually run.
+### `Destivano` · AI Engineer · Builder of useful things
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--amine--arous--ensta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-arous-ensta/)
+<p>
+  <a href="https://destivano.github.io"><img src="https://img.shields.io/badge/portfolio-destivano.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-arous-ensta/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohamed-amine.arous@ensta-paris.fr"><img src="https://img.shields.io/badge/email-say_hi-ff744b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p><i>Research brain. Product energy. Slightly too much coffee.</i> ☕</p>
 
 </div>
 
----
+## what I’m about
 
-### 🧠 what I'm about
+I’m a final-year AI Engineering student at **ENSTA Paris**, specializing in **Generative AI and intelligent systems**. I like taking ideas from papers, prototypes, and messy notebooks and turning them into things that are actually usable.
 
-Building LLM-powered apps, RAG pipelines, and cloud-deployed ML systems — with research/industry collaborations along the way (CEA, STMicroelectronics, École Polytechnique). I like taking a model from "cool demo" to "reliable, production-ready thing."
+Right now, I’m working on **neuro-symbolic AI and knowledge graphs for autonomous warehouse robots** at **CEA List**. Before that, I worked on voice cloning for European languages, machine learning for microelectronics, and a lot of ambitious side quests.
 
-### 🛠️ tech I work with
+```text
+currently        building neuro-symbolic AI @ CEA List
+learning         LLM systems · RAG · knowledge graphs · embodied AI
+based in         Paris area, France 🇫🇷
+open to          meaningful AI collabs, research, and cool problems
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## things I build
 
-**Generative AI:** LLMs · Retrieval-Augmented Generation (RAG) · Vector Embeddings · Ollama · CrewAI · Transformers
-**Knowledge & Semantic AI:** Knowledge Graphs
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative AI</h3>
+      LLM applications, RAG systems, agents, voice models, and the occasional attempt to make AI explain itself.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Intelligent systems</h3>
+      Knowledge graphs, neuro-symbolic reasoning, embodied AI, and models that interact with the real world.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Shipping to production</h3>
+      FastAPI backends, cloud deployments, CI/CD pipelines, and infrastructure that survives the demo.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 Research → reality</h3>
+      I enjoy the space between a strong paper and a useful product. That’s usually where the fun starts.
+    </td>
+  </tr>
+</table>
 
-### 📌 a few things I've built
+## selected builds
 
-Pinned below 👇 — RAG apps, reinforcement learning, deep learning from scratch, and more.
+| project | what it does | stack |
+| --- | --- | --- |
+| [**docuchat**](https://github.com/Destivano/docuchat) | Local-first RAG assistant for chatting with your own documents | `Python` `FastAPI` `Ollama` |
+| [**CosyVoice2-EU**](https://github.com/hi-paris/CosyVoice2-EU) | Open-source voice cloning adapted for European languages | `Python` `PyTorch` `Transformers` |
+| [**AI Smart Recruitment System**](https://github.com/Destivano/AI_Smart_Recruitment_System) | Multi-agent recruitment assistant with SWOT analysis and interview insights | `CrewAI` `MistralAI` `SMTP` |
+| [**Hunting Exoplanets**](https://github.com/Destivano/HuntingExoPlanets_NASA_SPACE_Apps_Challenge) | ML pipeline for finding exoplanets in stellar light curves | `Python` `CNN` `FastAPI` |
+| [**nextwork-web-project**](https://github.com/Destivano/nextwork-web-project) | Git-push-to-production AWS CI/CD pipeline | `AWS` `CodePipeline` `CodeBuild` `EC2` |
 
----
+## my current toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Transformers-111111?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Transformers">
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL">
+</p>
+
+## github energy
 
 <div align="center">
-<sub>thanks for stopping by</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Destivano&show_icons=true&hide_border=true&title_color=ff744b&icon_color=ff744b&text_color=555555&bg_color=f6f5f0" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destivano&layout=compact&hide_border=true&title_color=ff744b&text_color=555555&bg_color=f6f5f0" height="165" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+### if you’re building something interesting, let’s talk →
+
+<a href="mailto:mohamed-amine.arous@ensta-paris.fr">mohamed-amine.arous@ensta-paris.fr</a>
+
+<br><br>
+
+<sub>made with curiosity · shipped from France 🇫🇷</sub>
+
 </div>
