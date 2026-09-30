@@ -24,7 +24,7 @@ Right now, I’m working on **neuro-symbolic AI and knowledge graphs for autonom
 currently        building neuro-symbolic AI @ CEA List
 learning         LLM systems · RAG · knowledge graphs · embodied AI
 based in         Paris area, France 🇫🇷
-open to          meaningful AI collabs, research, and cool problems
+open to          Generative AI roles, shipping-focused teams, and cool problems
 ```
 
 ## things I build
