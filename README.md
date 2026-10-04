@@ -80,7 +80,6 @@ open to          Generative AI roles, shipping-focused teams, and cool problems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Destivano&show_icons=true&hide_border=true&title_color=ff744b&icon_color=ff744b&text_color=555555&bg_color=f6f5f0" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destivano&layout=compact&hide_border=true&title_color=ff744b&text_color=555555&bg_color=f6f5f0" height="165" alt="Top languages" />
 
 </div>
