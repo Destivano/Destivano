@@ -6,7 +6,7 @@
 
 <!-- SHOWREEL: full-length silent introduction. -->
 <p>
-  <img src="https://raw.githubusercontent.com/Destivano/Destivano/main/assets/showreel-full-silent.webp" width="900" alt="Full 77-second silent introduction to Mohamed Amine Arous">
+  <img src="https://raw.githubusercontent.com/Destivano/Destivano/main/assets/showreel-full-quality.webp" width="1280" alt="Full 77-second silent introduction to Mohamed Amine Arous">
 </p>
 
 <p>
