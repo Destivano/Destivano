@@ -4,14 +4,10 @@
 
 ### `Destivano` · AI Engineer · Builder of useful things
 
-<!-- SHOWREEL: full-length silent animation links to the English video with sound. -->
+<!-- SHOWREEL: full-length silent introduction. -->
 <p>
-  <a href="https://github.com/Destivano/Destivano/blob/main/assets/showreel_arous_en_full.mp4">
-    <img src="https://raw.githubusercontent.com/Destivano/Destivano/main/assets/showreel-full-silent.webp" width="900" alt="Full 77-second silent introduction to Mohamed Amine Arous — click to watch with sound">
-  </a>
+  <img src="https://raw.githubusercontent.com/Destivano/Destivano/main/assets/showreel-full-silent.webp" width="900" alt="Full 77-second silent introduction to Mohamed Amine Arous">
 </p>
-
-**[▶ Watch my full introduction · English · 1:17 · Sound](https://github.com/Destivano/Destivano/blob/main/assets/showreel_arous_en_full.mp4)**
 
 <p>
   <a href="https://destivano.github.io"><img src="https://img.shields.io/badge/portfolio-destivano.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
