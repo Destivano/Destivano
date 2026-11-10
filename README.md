@@ -4,6 +4,15 @@
 
 ### `Destivano` · AI Engineer · Builder of useful things
 
+<!-- SHOWREEL: animated preview links to the complete English video. -->
+<p>
+  <a href="https://github.com/Destivano/Destivano/blob/main/assets/showreel_arous_en_full.mp4">
+    <img src="https://raw.githubusercontent.com/Destivano/Destivano/main/assets/showreel-preview.gif" width="900" alt="Animated introduction to Mohamed Amine Arous — click to watch the full English showreel with sound">
+  </a>
+</p>
+
+**[▶ Watch my full introduction · English · 1:17 · Sound](https://github.com/Destivano/Destivano/blob/main/assets/showreel_arous_en_full.mp4)**
+
 <p>
   <a href="https://destivano.github.io"><img src="https://img.shields.io/badge/portfolio-destivano.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mohamed-amine-arous-ensta/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
